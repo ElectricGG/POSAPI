@@ -1,0 +1,12 @@
+C:\Users\jesus\OneDrive\Escritorio\Desarrollos\cursos\Agunlar_Net6_POS\posapi\POS\POS.Utilities\bin\Release\net6.0\POS.Utilities.deps.json
+C:\Users\jesus\OneDrive\Escritorio\Desarrollos\cursos\Agunlar_Net6_POS\posapi\POS\POS.Utilities\bin\Release\net6.0\POS.Utilities.dll
+C:\Users\jesus\OneDrive\Escritorio\Desarrollos\cursos\Agunlar_Net6_POS\posapi\POS\POS.Utilities\bin\Release\net6.0\POS.Utilities.pdb
+C:\Users\jesus\OneDrive\Escritorio\Desarrollos\cursos\Agunlar_Net6_POS\posapi\POS\POS.Utilities\obj\Release\net6.0\POS.Utilities.csproj.AssemblyReference.cache
+C:\Users\jesus\OneDrive\Escritorio\Desarrollos\cursos\Agunlar_Net6_POS\posapi\POS\POS.Utilities\obj\Release\net6.0\POS.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jesus\OneDrive\Escritorio\Desarrollos\cursos\Agunlar_Net6_POS\posapi\POS\POS.Utilities\obj\Release\net6.0\POS.Utilities.AssemblyInfoInputs.cache
+C:\Users\jesus\OneDrive\Escritorio\Desarrollos\cursos\Agunlar_Net6_POS\posapi\POS\POS.Utilities\obj\Release\net6.0\POS.Utilities.AssemblyInfo.cs
+C:\Users\jesus\OneDrive\Escritorio\Desarrollos\cursos\Agunlar_Net6_POS\posapi\POS\POS.Utilities\obj\Release\net6.0\POS.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\jesus\OneDrive\Escritorio\Desarrollos\cursos\Agunlar_Net6_POS\posapi\POS\POS.Utilities\obj\Release\net6.0\POS.Utilities.dll
+C:\Users\jesus\OneDrive\Escritorio\Desarrollos\cursos\Agunlar_Net6_POS\posapi\POS\POS.Utilities\obj\Release\net6.0\refint\POS.Utilities.dll
+C:\Users\jesus\OneDrive\Escritorio\Desarrollos\cursos\Agunlar_Net6_POS\posapi\POS\POS.Utilities\obj\Release\net6.0\POS.Utilities.pdb
+C:\Users\jesus\OneDrive\Escritorio\Desarrollos\cursos\Agunlar_Net6_POS\posapi\POS\POS.Utilities\obj\Release\net6.0\ref\POS.Utilities.dll

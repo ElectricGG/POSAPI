@@ -1,0 +1,7 @@
+{
+  "POS.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\jesus\\OneDrive\\Escritorio\\Desarrollos\\cursos\\Agunlar_Net6_POS\\posapi\\POS\\POS.Api",
+  "POS.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\jesus\\OneDrive\\Escritorio\\Desarrollos\\cursos\\Agunlar_Net6_POS\\posapi\\POS\\POS.Application",
+  "POS.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\jesus\\OneDrive\\Escritorio\\Desarrollos\\cursos\\Agunlar_Net6_POS\\posapi\\POS\\POS.Domain",
+  "POS.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\jesus\\OneDrive\\Escritorio\\Desarrollos\\cursos\\Agunlar_Net6_POS\\posapi\\POS\\POS.Infrastructure",
+  "POS.Utilities, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\jesus\\OneDrive\\Escritorio\\Desarrollos\\cursos\\Agunlar_Net6_POS\\posapi\\POS\\POS.Utilities"
+}

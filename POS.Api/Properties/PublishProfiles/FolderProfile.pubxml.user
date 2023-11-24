@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\jesus\OneDrive\Escritorio\Desarrollos\cursos\Agunlar_Net6_POS\Publicaciones</_PublishTargetUrl>
+    <History>True|2023-10-05T15:13:31.9053384Z;True|2023-10-03T08:20:54.8888695-05:00;True|2023-10-03T06:02:03.4603345-05:00;True|2023-10-02T05:04:03.2431663-05:00;True|2023-10-02T05:02:00.8722447-05:00;True|2023-10-02T05:01:12.4672826-05:00;True|2023-10-02T04:52:54.0157752-05:00;</History>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="AzureStorage">
+      <Value>Data Source=LAPTOP-FMOGKBON\BDJESUS%3bDatabase=POS%3bIntegrated Security=true%3b</Value>
+    </DestinationConnectionStrings>
+    <DestinationConnectionStrings Include="POSConecction">
+      <Value>Data Source=LAPTOP-FMOGKBON\BDJESUS%3bDatabase=POS%3bIntegrated Security=true%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="POS.Infrastructure.Persistences.Context.POSContext">
+      <Value>Data Source=LAPTOP-FMOGKBON\BDJESUS%3bDatabase=POS%3bIntegrated Security=true%3b</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>
